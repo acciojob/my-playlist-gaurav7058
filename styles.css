@@ -38,6 +38,9 @@
 .player_two{
     white-space: preserve; 
 }
+.audio-text{
+    padding: 0px 16px;
+}
 .audio{
     width: -moz-available;
     padding: 9px;

@@ -33,14 +33,14 @@ a{
      border-radius: 10px;
 }
 .player_one{
-    width: -moz-available;
-    padding: 28px;
+    width: 95%;
+    padding: 15px;
 }
 .mp3-song{
     margin-top: -21px;
 }
 .player_two{
-    width: -moz-available;
+    width: 95%;
     padding: 9px;
     border-radius: 29px;   
 }

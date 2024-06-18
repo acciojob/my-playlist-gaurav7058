@@ -21,6 +21,10 @@
     list-style-type:none;
     padding: 9px;
    }
+a{
+    text-decoration-line: none;
+    color: black;
+   }
    .video-audio-list{
      width: 80%;
      border: 1px solid black;
